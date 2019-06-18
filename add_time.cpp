@@ -40,6 +40,7 @@ int main()
 	t2.read();
 	t3=t1+t2;
 	t3.print();
+	cout<<"Hello";
 }
 	
 	
